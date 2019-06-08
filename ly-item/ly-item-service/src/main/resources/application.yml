@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/leyou
     username: root
-    password: 123
+    password: 115513875
 eureka:
   client:
     service-url:
